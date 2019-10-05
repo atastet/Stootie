@@ -1,2 +1,3 @@
 # Stootie
-Api to create events during migration
+Api Flask  to create events during migration
+from webhook Stripe et AppsFlyer ro Segment
